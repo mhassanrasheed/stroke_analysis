@@ -2,7 +2,7 @@
 
 Data was obtained from kaggle https://www.kaggle.com/fedesoriano/stroke-prediction-dataset
 
-# Here are some libraries needed
+** Here are some libraries needed **
 
 ```
 import pandas as pd
